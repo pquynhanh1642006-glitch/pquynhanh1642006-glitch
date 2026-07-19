@@ -24,6 +24,10 @@ Responsive course management website built with React.
 
 🔗 GitHub Repo
 
+## CV
+
+https://docs.google.com/document/d/1DtLSSwRPvGafEH4M6NArcNJPBA03QcPW/edit?usp=sharing&ouid=115545746220795504450&rtpof=true&sd=true
+
 https://github.com/pquynhanh1642006-glitch/prj6-course-website
 
 🌐 Live Demo
